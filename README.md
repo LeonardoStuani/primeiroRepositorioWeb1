@@ -15,7 +15,7 @@ Teste de criação - WEB GIT
   <img align="center" alt="LeoStuani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="LeoStuani" src="https://cdn.discordapp.com/attachments/LSG | Leo#4966/hi.gif">
   
- <img align="center" alt="LeoStuani-CSS" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
 
 
   
