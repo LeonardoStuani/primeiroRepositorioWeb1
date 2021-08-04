@@ -28,3 +28,5 @@ Teste de criação - WEB GIT
 </div>
 
  ##
+ 
+ ![Snake animation](https://github.com/LeonardoStuani/LeonardoStuani/blob/output/github-contribution-grid-snake.svg)
