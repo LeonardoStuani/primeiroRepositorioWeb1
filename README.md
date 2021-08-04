@@ -13,8 +13,7 @@ Teste de criação - WEB GIT
   <img align="center" alt="LeoStuani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LeoStuani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LeoStuani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="LeoStuani" src="https://cdn.discordapp.com/attachments
- 
+   
 </div>
  
  ##                                    
@@ -25,6 +24,7 @@ Teste de criação - WEB GIT
   <a href = "mailto:leo@uniplaclages.edu.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-stuani-godoi-b27179109/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                         
                                           
-
  
 </div>
+
+ ##
